@@ -35,6 +35,15 @@ add reactstrap react-popper
 ### `yarn add reactstrap`
 
 
+add font-awesome
+
+### `yarn add font-awesome`
+
+
+add bootstrap-social
+
+### `yarn add bootstrap-social`
+
 
 
 
