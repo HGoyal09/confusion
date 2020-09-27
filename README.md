@@ -44,7 +44,9 @@ add bootstrap-social
 
 ### `yarn add bootstrap-social`
 
+add react router 
 
+### `yarn add react-router-dom`
 
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
