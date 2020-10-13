@@ -48,6 +48,11 @@ add react router
 
 ### `yarn add react-router-dom`
 
+add react redux
+
+### `yarn add redux`
+### `yarn add react-redux`
+
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
