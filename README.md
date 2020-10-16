@@ -53,6 +53,10 @@ add react redux
 ### `yarn add redux`
 ### `yarn add react-redux`
 
+add react redux form 
+
+### `yarn add react-redux-form`
+
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
