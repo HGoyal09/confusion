@@ -58,6 +58,17 @@ add react redux form
 ### `yarn add react-redux-form`
 
 
+add redux thunk
+
+### `yarn add redux-thunk`
+
+
+add redux logger
+
+### `yarn add redux-logger`
+
+
+
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### `yarn eject`
