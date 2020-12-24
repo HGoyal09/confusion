@@ -26,6 +26,10 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 
+Create react project 
+### `npx create-react-app my-app`
+### `npm start`
+
 Add bootstrap to react 
 ### `yarn add bootstrap`
 
